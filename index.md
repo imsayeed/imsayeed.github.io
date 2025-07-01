@@ -5,7 +5,7 @@ title: Home
 
 # Md Sayeed Anwar
 
-**Senior Research Fellow**  
+
 Physics and Applied Mathematics Unit  
 Indian Statistical Institute, Kolkata, India  
 
@@ -18,7 +18,7 @@ Indian Statistical Institute, Kolkata, India
 
 I am a researcher in complex systems and nonlinear dynamics, currently pursuing a Ph.D. in Applied Mathematics at the Indian Statistical Institute, Kolkata. My research focuses on synchronization phenomena in systems with pairwise and non-pairwise interactions, including swarmalators, metapopulations, and higher-order networks.
 
-I have published over 18 journal papers, attended multiple international conferences, and collaborated with researchers from institutes in Europe and India. I aim to contribute to a deeper understanding of collective behavior in complex systems, with applications in physics, biology, and beyond.
+
 
 ---
 
@@ -32,4 +32,4 @@ I have published over 18 journal papers, attended multiple international confere
 
 ---
 
-_This site is built with GitHub Pages and the Cayman Jekyll theme._
+
