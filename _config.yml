@@ -1,0 +1,8 @@
+title: Md Sayeed Anwar
+email: sayeedanwar447@gmail.com
+description: >-
+  Personal academic website of Md Sayeed Anwar – Research Fellow at ISI Kolkata.
+baseurl: ""
+url: "https://your-username.github.io"
+theme: jekyll-theme-cayman
+markdown: kramdown
